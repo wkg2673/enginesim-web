@@ -2,7 +2,9 @@
 
 A browser version of Engine Simulator, compiled to WebAssembly from the
 open-source v0.1.12 source (fork: `bobsayshilol/engine-sim`, branch
-`wasm-build`). Loads the included Subaru EJ25 engine (`atg-video-2`).
+`wasm-build`).
+
+It automatically loads the included Subaru EJ25 engine (from [atg-video-2](https://github.com/ange-yaghi/engine-sim/tree/master/assets/engines/atg-video-2)).
 
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/2ae4fb1c-ec57-4c2e-9b24-fb6449333d55" />
 
