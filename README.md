@@ -42,6 +42,8 @@ browser console, and the currently running engine is left untouched.
 Engine files must use the modern format that ends with a `public node main`
 which calls `set_engine(...)`; anything else will be rejected with a warning.
 
+You can get engine files by going to [Engine Sim Catalog](https://catalog.engine-sim.parts/).
+
 ## Notes
 
 - The audio may sometimes be chopped and if you switch tabs it repeatedly
