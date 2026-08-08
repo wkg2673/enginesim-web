@@ -16,11 +16,10 @@ Then browse to `http://localhost:8765/index.html`.
 
 ## Controls
 
-- Throttle: `Up` / `Down` arrow keys
-- Shift / Brake: `Shift`
+- Throttle: `Q` / `W` / `E` / `R`
+- Brake : `.` 
+- Shift : `Shift`
 - Clutch: `Space`
-- Vehicle brake (hold): `.` (period)
-- See the on-screen help (F1) for the full control list.
 
 ## Loading your own engine file
 
