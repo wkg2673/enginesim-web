@@ -14,6 +14,8 @@ python -m http.server 8000
 
 Then browse to `http://localhost:8000/index.html`.
 
+Or go to [to8-engine-sim.netlify.app](https://to8-engine-sim.netlify.app/) for the Netlify version i host.
+
 ## Controls
 
 - Throttle: `Q` / `W` / `E` / `R`
