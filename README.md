@@ -9,10 +9,10 @@ open-source v0.1.12 source (fork: `bobsayshilol/engine-sim`, branch
 Serve this directory over HTTP, then open `index.html`:
 
 ```
-python -m http.server 8765 --directory D:\engine-sim-web
+python -m http.server 8000
 ```
 
-Then browse to `http://localhost:8765/index.html`.
+Then browse to `http://localhost:8000/index.html`.
 
 ## Controls
 
