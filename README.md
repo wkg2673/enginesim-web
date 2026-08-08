@@ -56,4 +56,5 @@ which calls `set_engine(...)`; anything else will be rejected with a warning.
   only).
 
 ## Thanks
-Thanks for AngeTheGreat who made the original engine-sim, which you can check out here: [engine-sim by Ange Yaghi](https://github.com/ange-yaghi/engine-sim)
+- Thanks for AngeTheGreat who made the original engine-sim, which you can check out here: [engine-sim by Ange Yaghi](https://github.com/ange-yaghi/engine-sim)
+- The Latest Version of Engine-Sim is always availible at [Engine-Sim Community Edition](https://github.com/Engine-Simulator/engine-sim-community-edition)
