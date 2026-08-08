@@ -18,8 +18,9 @@ Then browse to `http://localhost:8765/index.html`.
 
 - Throttle: `Q` / `W` / `E` / `R`
 - Brake : `.` 
-- Shift : `Shift`
-- Clutch: `Space`
+- Shift : `UP` / `DOWN` (arrow keys)
+- Clutch: `Shift`
+- Slow-Mo: `1 - 5`
 
 ## Loading your own engine file
 
