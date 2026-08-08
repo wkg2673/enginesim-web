@@ -57,6 +57,6 @@ which calls `set_engine(...)`; anything else will be rejected with a warning.
   This web build therefore uses the v0.1.12 open-source data (piston engines
   only).
 
-## Thanks
+## End Notes
 - Thanks for AngeTheGreat who made the original engine-sim, which you can check out here: [engine-sim by Ange Yaghi](https://github.com/ange-yaghi/engine-sim)
 - The Latest Version(v0.1.14a) of Engine-Sim is availible at [Engine-Sim Community Edition](https://github.com/Engine-Simulator/engine-sim-community-edition)
