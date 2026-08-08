@@ -38,6 +38,8 @@ which calls `set_engine(...)`; anything else will be rejected with a warning.
 
 ## Notes
 
+- The audio may sometimes be chopped and if you switch tabs it repeatedly
+  plays the audio.
 - The build is a single self-contained `index.html` (HTML + JS + WASM +
   embedded data). No other files are required to serve it.
 - The 4 messages like `Error @ yds_opengl_device.cpp:875 - 1` and
