@@ -50,3 +50,6 @@ which calls `set_engine(...)`; anything else will be rejected with a warning.
   require native Wankel nodes that no open-source engine-sim build provides.
   This web build therefore uses the v0.1.12 open-source data (piston engines
   only).
+
+## Thanks
+Thanks for AngeTheGreat who made the original engine-sim, which you can check out here: [engine-sim by Ange Yaghi](https://github.com/ange-yaghi/engine-sim)
